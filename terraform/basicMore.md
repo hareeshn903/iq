@@ -1,7 +1,7 @@
 [toc]
-- [1. what is the difference between Terraform and other configuration management tools like Ansible, Puppet, or Chef?\*\*\*](#1-what-is-the-difference-between-terraform-and-other-configuration-management-tools-like-ansible-puppet-or-chef)
+- [1. what is the difference between Terraform and other configuration management tools like Ansible, Puppet, or Chef?](#1-what-is-the-difference-between-terraform-and-other-configuration-management-tools-like-ansible-puppet-or-chef)
 
-# 1. what is the difference between Terraform and other configuration management tools like Ansible, Puppet, or Chef?***
+### 1. what is the difference between Terraform and other configuration management tools like Ansible, Puppet, or Chef?
 
 ### **1. Core Purpose** <!-- omit from toc -->
 
