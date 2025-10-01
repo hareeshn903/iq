@@ -144,7 +144,8 @@ If we visualize Terraform architecture, it looks like this:
 
 ```
 https://www.pynetlabs.com/wp-content/uploads/Terraform-Architecture-Overview-20-1024x413.webp
-
+[
+](https://www.pynetlabs.com/wp-content/uploads/Terraform-Architecture-Overview-20-1024x413.webp)<img width="1024" height="413" alt="image" src="https://github.com/user-attachments/assets/b49dac9e-5feb-440f-9e1c-453b7f71c94b" />
 ```
 
 ---
