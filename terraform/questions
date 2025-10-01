@@ -5,6 +5,45 @@ How do you manage multiple environments (e.g., development, staging, production)
 What is a Terraform provider, and how do you use it?
 Explain the difference between Terraform modules and resources.
 
+
+6. Initialization and Planning
+What is the purpose of the terraform init command?
+oHow does Terraform handle concurrent operations in a 
+team environment?
+7. Advanced Features
+oHow does Terraform handle resource dependencies?
+oWhat is drift detection in Terraform, and how do you handle drift?
+How do you use a backend configuration in Terraform?
+8. Lifecycle Management
+oHow does Terraform manage resource lifecycles?
+oWhat is the purpose of the terraform taint command?
+9. Dynamic Blocks and Conditional Logic
+oWhat are Terraform dynamic blocks, and how are they used?
+oHow does Terraform support conditional resource creation?
+10.Remote State Management
+oHow do you manage remote state in Terraform?
+oHow does Terraform state file locking work in remote backends?
+11.Formatting and Debugging
+oWhat is terraform fmt, and why is it important?
+oHow do you debug errors in Terraform?
+12.Zero-Downtime Deployments
+oHow does Terraform handle zero-downtime deployments?
+13.Provisioners
+oExplain the difference between local-exec and remote-
+exec provisioners.
+14.Shared Modules
+oHow do you manage shared modules in Terraform?
+15.Terraform Cloud
+oWhat is Terraform Cloud, and how does it differ from 
+Terraform CLI?
+16.Resource Management
+oWhat are Terraform backends, and why are they important?
+oWhat is the purpose of the terraform output command?
+
+
+
+
+
 🔹 How do you design and manage reusable Terraform modules across multiple teams and environments?
  🔹 What strategies do you use for remote state locking and consistency in CI/CD pipelines?
  🔹 How do you handle secrets securely in Terraform (without hardcoding or leaking into state)?
