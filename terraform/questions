@@ -1,0 +1,14 @@
+🔹 How do you design and manage reusable Terraform modules across multiple teams and environments?
+ 🔹 What strategies do you use for remote state locking and consistency in CI/CD pipelines?
+ 🔹 How do you handle secrets securely in Terraform (without hardcoding or leaking into state)?
+ 🔹 What’s your approach to managing drift between infrastructure and Terraform code?
+ 🔹 How do you enforce compliance (e.g., tagging, encryption) using Sentinel or custom policies?
+ 🔹 Can you explain the lifecycle of a resource and how create_before_destroy affects it?
+ 🔹 How do you structure Terraform for multi-cloud or hybrid deployments?
+ 🔹 What are the trade-offs between workspaces vs. separate state files per environment?
+ 🔹 How do you debug a failed terraform apply in a complex module setup?
+ 🔹 Have you ever written a custom provider or used external data sources?
+ 🔹 How do you handle sensitive data in Terraform (e.g., secrets, API keys, credentials)?
+
+ What is Terraform and what are its main features?
+ 

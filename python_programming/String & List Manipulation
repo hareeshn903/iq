@@ -1,0 +1,13 @@
+
+These test Python’s data structure handling:
+
+11. Reverse words in a sentence: `"Hello World"` → `"World Hello"`.
+12. Check if a string is a valid palindrome ignoring spaces and case.
+13. Find the first non-repeating character in a string.
+14. Merge two sorted lists into one sorted list.
+15. Flatten a nested list: `[[1,2],[3,4]] → [1,2,3,4]`.
+16. Find common elements in two lists.
+17. Rotate a list by `k` positions.
+18. Find the second largest number in a list.
+19. Group anagrams from a list of words.
+20. Find pairs in a list that sum to a target.
