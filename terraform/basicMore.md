@@ -1,11 +1,7 @@
 [toc]
-- [***1. what is the difference between Terraform and other configuration management tools like Ansible, Puppet, or Chef?***](#1-what-is-the-difference-between-terraform-and-other-configuration-management-tools-like-ansible-puppet-or-chef)
-    - [**3. State Management**](#3-state-management)
-    - [**4. Agent vs Agentless**](#4-agent-vs-agentless)
-    - [**5. Typical Use Cases**](#5-typical-use-cases)
-    - [**6. How They Complement Each Other**](#6-how-they-complement-each-other)
+- [1. what is the difference between Terraform and other configuration management tools like Ansible, Puppet, or Chef?\*\*\*](#1-what-is-the-difference-between-terraform-and-other-configuration-management-tools-like-ansible-puppet-or-chef)
 
-# ***1. what is the difference between Terraform and other configuration management tools like Ansible, Puppet, or Chef?***
+# 1. what is the difference between Terraform and other configuration management tools like Ansible, Puppet, or Chef?***
 
 ### **1. Core Purpose** <!-- omit from toc -->
 
@@ -43,7 +39,7 @@
 
 ---
 
-### **3. State Management**
+### **3. State Management** <!-- omit from toc -->
 
 * **Terraform**
 
@@ -58,7 +54,7 @@
 
 ---
 
-### **4. Agent vs Agentless**
+### **4. Agent vs Agentless** <!-- omit from toc -->
 
 * **Terraform**
 
@@ -72,7 +68,7 @@
 
 ---
 
-### **5. Typical Use Cases**
+### **5. Typical Use Cases** <!-- omit from toc -->
 
 * **Terraform**
 
@@ -93,7 +89,7 @@
 
 ---
 
-### **6. How They Complement Each Other**
+### **6. How They Complement Each Other** <!-- omit from toc -->
 
 * Often used **together**:
 
