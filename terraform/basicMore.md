@@ -1,5 +1,13 @@
-## 1. what is the difference between Terraform and other configuration management tools like Ansible, Puppet, or Chef?
-### **1. Core Purpose**
+[toc]
+- [***1. what is the difference between Terraform and other configuration management tools like Ansible, Puppet, or Chef?***](#1-what-is-the-difference-between-terraform-and-other-configuration-management-tools-like-ansible-puppet-or-chef)
+    - [**3. State Management**](#3-state-management)
+    - [**4. Agent vs Agentless**](#4-agent-vs-agentless)
+    - [**5. Typical Use Cases**](#5-typical-use-cases)
+    - [**6. How They Complement Each Other**](#6-how-they-complement-each-other)
+
+# ***1. what is the difference between Terraform and other configuration management tools like Ansible, Puppet, or Chef?***
+
+### **1. Core Purpose** <!-- omit from toc -->
 
 * **Terraform (HashiCorp)**
 
@@ -7,14 +15,14 @@
   * Works with: AWS, Azure, GCP, VMware, Kubernetes, etc.
   * Example: “Create 5 EC2 instances, a load balancer, and an S3 bucket.”
 
-* **Ansible, Puppet, Chef**
+* **Ansible, Puppet, Chef** 
 
   * Focus: **Configuration Management** (installing software, managing packages, configuring services on existing servers).
   * Example: “Install Nginx on this server, configure `/etc/nginx/nginx.conf`, and start the service.”
 
 ---
 
-### **2. Declarative vs Procedural**
+### **2. Declarative vs Procedural** <!-- omit from toc -->
 
 * **Terraform**
 
@@ -100,5 +108,3 @@
 * **Ansible/Puppet/Chef = Configuration Management (What runs inside infra).**
 
 ---
-
-Would you like me to make a **side-by-side comparison table** so it’s easier to see the differences at a glance?

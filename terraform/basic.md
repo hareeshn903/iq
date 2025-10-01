@@ -1,8 +1,8 @@
-What is Terraform and what are its main features?
+### 1.What is Terraform and what are its main features?
 
-Terraform is an open-source Infrastructure as Code (IaC) tool it allows us to define, provision, and manage infrastructure across multiple cloud providers using a declarative configuration language called HCL (HashiCorp Configuration Language). Instead of manually configuring resources, Terraform automates the process, making infrastructure consistent, repeatable, and version-controlled.*
+Terraform is an open-source Infrastructure as Code (IaC) tool it allows us to define, provision, and manage infrastructure across multiple cloud providers using a declarative configuration language called HCL (HashiCorp Configuration Language). Instead of manually configuring resources, Terraform automates the process, making infrastructure consistent, repeatable, and version-controlled.
 
-*Some of its main features include:*
+* Some of its main features include:
 
 1. **Infrastructure as Code** – We can define infrastructure in configuration files that are human-readable and version-controllable.
 2. **Multi-cloud support** – Works with AWS, Azure, GCP, and on-premises systems via providers.
