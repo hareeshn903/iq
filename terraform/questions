@@ -1,3 +1,10 @@
+What is state in Terraform, and why is it important?
+How do you manage multiple environments (e.g., development, staging, production) in Terraform?
+
+3. Providers and Modules
+What is a Terraform provider, and how do you use it?
+Explain the difference between Terraform modules and resources.
+
 🔹 How do you design and manage reusable Terraform modules across multiple teams and environments?
  🔹 What strategies do you use for remote state locking and consistency in CI/CD pipelines?
  🔹 How do you handle secrets securely in Terraform (without hardcoding or leaking into state)?
