@@ -1,5 +1,4 @@
 ## 1. what is the difference between Terraform and other configuration management tools like Ansible, Puppet, or Chef?
-
 ### **1. Core Purpose**
 
 * **Terraform (HashiCorp)**
