@@ -18,7 +18,7 @@ ________________________________________________________________________________
 
 ### **How does Terraform work?**
 
-<img width="1038" height="773" alt="Untitled" src="https://github.com/user-attachments/assets/87f407bf-ddb1-4e25-9f06-5155c4efadb1" />
+<img width="400" height="300" alt="Untitled" src="https://github.com/user-attachments/assets/87f407bf-ddb1-4e25-9f06-5155c4efadb1" />
 
 Terraform works in a few key steps:
 
