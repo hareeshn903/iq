@@ -18,6 +18,8 @@ ________________________________________________________________________________
 
 ### **How does Terraform work?**
 
+<img width="2038" height="1773" alt="Untitled" src="https://github.com/user-attachments/assets/87f407bf-ddb1-4e25-9f06-5155c4efadb1" />
+
 Terraform works in a few key steps:
 
 1. **Write Configuration** – We define our infrastructure in `.tf` files using HCL (e.g., servers, databases, networks).
